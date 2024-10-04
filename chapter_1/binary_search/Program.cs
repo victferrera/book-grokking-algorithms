@@ -11,7 +11,7 @@
 
             int start = 0;
             int end = arr.Length - 1;
-            int searchValue = 13;
+            int searchValue = 21;
             int attempts = 0;
 
             while(start <= end)
