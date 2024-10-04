@@ -22,9 +22,6 @@ namespace binary_search_exercise_1
                 switch(option)
                 {
                     case 1:
-                        // Desenvolver uma busca utilizando o binary search para procurar por um numero fornecido pelo usuário no array de 0 - 100.
-                        // Pior dos casos seria log de 100 na base 2, que daria mais ou menos 7 tentativas
-                        // Melhor dos casos seria o numero ser o meio do array, executando somente 1 vez, que é o caso do 50
                         ex.findNumber();
                         break;
                     case 2:
